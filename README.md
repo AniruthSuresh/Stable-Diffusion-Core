@@ -20,3 +20,15 @@
    ```bash
    cd src
    python3 check.py
+
+## Download Weights and Tokenizer Files
+
+To set up the Stable Diffusion model, you need to download and save the necessary files in the `data` folder:
+
+1. **Download Tokenizer Files**:
+    - **`vocab.json`** and **`merges.txt`** can be downloaded from [Hugging Face Tokenizer Files](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main/tokenizer).
+    - Save these files into the `data` directory of your project.
+
+2. **Download Model Weights**:
+    - **`v1-5-pruned-emaonly.ckpt`** can be downloaded from [Hugging Face Model Weights](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main).
+    - Save this file into the `data` directory of your project.
