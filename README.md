@@ -32,3 +32,7 @@ To set up the Stable Diffusion model, you need to download and save the necessar
 2. **Download Model Weights**:
     - **`v1-5-pruned-emaonly.ckpt`** can be downloaded from [Hugging Face Model Weights](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main).
     - Save this file into the `data` directory of your project.
+  
+    - 
+![Alt text](https://example.com/path/to/image.jpg)
+
