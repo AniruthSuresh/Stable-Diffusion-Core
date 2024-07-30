@@ -34,5 +34,5 @@ To set up the Stable Diffusion model, you need to download and save the necessar
     - Save this file into the `data` directory of your project.
   
     - 
-![Alt text](https://example.com/path/to/image.jpg)
+![Alt text]([https://example.com/path/to/image.jpg](https://github.com/AniruthSuresh/Stable-Diffusion-Core/blob/main/data/architecture.png))
 
