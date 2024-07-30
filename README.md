@@ -14,7 +14,7 @@
    
    ```bash
    conda env create -f env.yml
-   conda activate simpleddpm
+   conda activate diffusion
 
 3. To get the final output :
    ```bash
